@@ -9,6 +9,8 @@ authors = [
 dependencies = [
     "ipywidgets==7.0.0",
     "sagemaker>=2.169.0",
+    "nbdev>=2.3.12",
+    "dvc>=3.3.1",
 ]
 requires-python = ">=3.9"
 license = {text = "MIT"}
