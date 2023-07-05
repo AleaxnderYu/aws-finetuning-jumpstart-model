@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "aws-finetuning-jumpstart-model"
+  site-url: "https://AleaxnderYu.github.io/aws-finetuning-jumpstart-model"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/AleaxnderYu/aws-finetuning-jumpstart-model"
