@@ -1,0 +1,34 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "domain-adaption-finetuning-gpt-j-6b.ipynb",
+  "documentNamespace": "http://aquasecurity.github.io/trivy/filesystem/domain-adaption-finetuning-gpt-j-6b.ipynb-bf7f6272-43df-4490-be07-9cc9b20b0f34",
+  "creationInfo": {
+    "licenseListVersion": "",
+    "creators": [
+      "Organization: aquasecurity",
+      "Tool: trivy-0.43.0"
+    ],
+    "created": "2023-07-06T23:08:43Z"
+  },
+  "packages": [
+    {
+      "name": "domain-adaption-finetuning-gpt-j-6b.ipynb",
+      "SPDXID": "SPDXRef-Filesystem-2e957268610ff32",
+      "downloadLocation": "NONE",
+      "copyrightText": "",
+      "attributionTexts": [
+        "SchemaVersion: 2"
+      ],
+      "primaryPackagePurpose": "SOURCE"
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relatedSpdxElement": "SPDXRef-Filesystem-2e957268610ff32",
+      "relationshipType": "DESCRIBES"
+    }
+  ]
+}

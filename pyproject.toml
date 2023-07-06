@@ -1,17 +1,12 @@
 
 [project]
-name = "fine-tuning-aws-jumpstart"
-version = "0.0.1"
+name = ""
+version = ""
 description = ""
 authors = [
-    {name = "AleaxnderYu", email = "hyu4@nd.edu"},
+    {name = "AlexanderYu", email = "hyu4@nd.edu"},
 ]
-dependencies = [
-    "ipywidgets==7.0.0",
-    "sagemaker>=2.169.0",
-    "nbdev>=2.3.12",
-    "dvc>=3.3.1",
-    "jupyter>=1.0.0",
-]
-requires-python = ">=3.9"
+dependencies = []
+requires-python = ">=3.10"
 license = {text = "MIT"}
+
